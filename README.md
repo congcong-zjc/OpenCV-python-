@@ -1,4 +1,4 @@
-# OpenCV-python-
+# OpenCV-python版本
 OpenCV的一些基本操作及项目实战
 
 ## 环境配置：
