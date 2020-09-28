@@ -1,4 +1,4 @@
-# OpenCV-python版本
+# OpenCV-python版本:项目实战信用卡数字识别
 OpenCV的一些基本操作及项目实战
 
 ## 环境配置：
