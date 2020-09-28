@@ -13,3 +13,6 @@ F:\opencv_project\template-matching-ocr\images\credit_card_01.png <br>
 -t <br>
 F:\opencv_project\template-matching-ocr\images\ocr_a_reference.png <br>
 
+### 项目实战文档扫描OCR识别：Scan
+需要指定参数：（IDE用的是pycharm，在左上角:run->Edit configurations -> parameters） <br>
+-i F:\opencv_project\Scan\images\receipt.jpg <br>
